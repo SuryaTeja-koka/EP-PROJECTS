@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "styles1.css"?>
+
+
+<books> 
+<heading>Surya BookStore</heading>
+
+ 
+    <book> 
+        <title>Tom Clancy's Oath of Office</title> 
+        <author>Author -: Chrisbates</author> 
+        <publisher>Publisher -: Wiley</publisher> 
+        <edition>Edition -: 3</edition> 
+        <price> Price -: 300</price> 
+		<description>A GRIPPING THRILLER IN TOM CLANCY'S INTERNATIONALLY BESTSELLING JACK RYAN SERIES - INSPIRATION FOR THE BLOCKBUSTER AMAZON PRIME TELEVISION SERIES.
+		</description>
+    </book>
+
+<book> 
+        <title> Pride and Prejudice by Jane Austen (1813) </title> 
+        <author>Author -: SuryaTeja Koka</author> 
+        <publisher>Publisher -: KLU</publisher> 
+        <edition>Edition -: 1</edition> 
+        <price> Price -: Free</price>
+		<description>It is a truth universally acknowledged that when most people think of Jane Austen they think of this charming and humorous story of love, difficult families and the tricky task of finding a handsome husband with a good fortune.</description> 
+    </book>
+
+
+<book> 
+        <title>Nimona </title> 
+        <author>Author -: SuryaTeja Koka</author> 
+        <publisher>Publisher -: KLU</publisher> 
+        <edition>Edition -: 1</edition> 
+        <price> Price -: Free</price> 
+<description>Nimona unfolds like a flower, growing from a lighthearted tale about an irrepressible girl with mysterious powers who worms her way into a gig as sidekick to her town's designated villain into something much richer and deeper. Noelle Stevenson's spritely line work gives the story even more lift, building a world where temp agencies handle evil-sidekick gigs and fantasy-armored bad guys plot to attack modern-looking city skylines with genetically modified dragons.</description>
+    </book>
+
+<book> 
+        <title>And Then There Were None by Agatha Christie</title> 
+        <author>Author -: SuryaTeja Koka</author> 
+        <publisher>Publisher -: KLU</publisher> 
+        <edition>Edition -: 1</edition> 
+        <price> Price -: Free</price> 
+<description>It’s impossible to talk about mystery novels without immediately thinking of the legendary Agatha Christie. Amongst all of her works, none has a story quite as impeccably crafted as And Then There Were None, which explains why it is the best selling mystery book of all time. </description>
+    </book>
+
+<book> 
+        <title>Alice’s Adventures in Wonderland by Lewis Carroll (1865) </title> 
+        <author>Author -: SuryaTeja Koka</author> 
+        <publisher>Publisher -: KLU</publisher> 
+        <edition>Edition -: 1</edition> 
+        <price> Price -: Free</price> 
+<description>Even if you’re not a math geek, you’re probably familiar with the algebraist Charles Dodgson — you just know him his much more famous alter-ego, Lewis Carroll. Unlike Dodgson, Carroll wrote stories that defied logic, twisting it into dreamlike, fantastical shapes: a hookah-smoking caterpillar, a flamingo-filled croquet-ground, a perpetually tardy White Rabbit. The result was Alice's Adventures in Wonderland, which has delighted adults and children alike since it was published over a century and a half ago — and today is recognized as a momentous early foray into the fantasy genre as a whole.</description>
+    </book>
+
+
+
+
+
+</books>

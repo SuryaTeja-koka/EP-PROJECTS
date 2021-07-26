@@ -1,0 +1,51 @@
+heading{
+    text-align: center;
+    display: block;
+    background-color: crimson;
+    font-size: 40px;
+}
+
+
+class
+{
+    background-color: aqua;
+}
+
+employee
+{
+    font-size: large;
+    font-style: ubuntu;
+    display:block
+}
+
+id{
+    font-size: 25px;
+    color: red;
+    background-color: chartreuse;
+}
+
+
+student:before{
+    content: attr(gender) ' ' attr(location) ' ' attr(age);
+    color: crimson;
+    font-size: 20px;
+    display:block;
+}
+
+id
+{
+font-size:25px;
+color:crimson;
+background-color:yellow;
+}
+name,branch,cgpa
+{
+font-size:20px;
+display:block;
+}
+designation
+{
+font-style:italic;
+}
+
+
