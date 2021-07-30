@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student-info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="postlab.xsd">
+<student>   			
+   <id>3</id>
+   <name>surya</name>    
+   <avg>91</avg>
+   <dob>2001-11-18</dob>  
+   <time>08:25:53</time>       
+   <mobile>8179887926</mobile>	   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <id>31554</id>
+   <name>surya</name>    
+   <avg>86</avg>
+   <dob>2001-09-03</dob>  
+   <time>12:00:00</time>       
+   <mobile>9949512482</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <id>31554</id>
+   <name>surya</name>    
+   <avg>86</avg>
+   <dob>2001-09-03</dob>  
+   <time>12:00:00</time>       
+   <mobile>9949512482</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+
+ <student>   			
+   <id>31554</id>
+   <name>surya</name>    
+   <avg>86</avg>
+   <dob>2001-09-03</dob>  
+   <time>12:00:00</time>       
+   <mobile>9949512482</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+ 
+<student>   			
+   <id>31554</id>
+   <name>surya</name>    
+   <avg>86</avg>
+   <dob>2001-09-03</dob>  
+   <time>12:00:00</time>       
+   <mobile>9949512482</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+
+</student-info>

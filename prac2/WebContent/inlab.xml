@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student-info[
+<!ELEMENT student-info (student)+>
+<!ELEMENT student (regno,name,avg,dob,time,mobile,distinction)>
+<!ELEMENT regno (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT avg (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT mobile (#PCDATA)>
+<!ELEMENT distinction (#PCDATA)>
+<!ATTLIST mobile no CDATA #IMPLIED>
+]>
+<student-info>
+<student>   			
+   <regno>31554</regno>
+   <name>Surya</name>    
+   <avg>20</avg>
+   <dob>03-09-2001</dob>  
+   <time>12:00:00</time>       
+   <mobile no="9949512482"/>    
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>30435</regno>
+   <name>bhanu</name>    
+   <avg>20</avg>
+   <dob>02-08-2001</dob>  
+   <time>12:00:00</time>       
+   <mobile>9999999999</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>31313</regno>
+   <name>Srinu</name>    
+   <avg>20</avg>
+   <dob>05-05-2002</dob>  
+   <time>12:00:00</time>       
+  <mobile>99999999999</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>33333</regno>
+   <name>chandan</name>    
+   <avg>21</avg>
+   <dob>5-8-2004</dob>  
+   <time>12:00:00</time>       
+  <mobile>9999999999</mobile>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>31145</regno>
+   <name>akhil</name>    
+   <avg>18</avg>
+   <dob>05-05-2003</dob>  
+   <time>8:25:87</time>       
+   <mobile>9999999999</mobile> 		   
+   <distinction>YES</distinction>
+ </student>
+
+</student-info>
