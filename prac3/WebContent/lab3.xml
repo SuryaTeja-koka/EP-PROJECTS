@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "UTF-8"?>  
+<?xml-stylesheet type="text/xsl" href="sample.xsl"?>
+<books>  
+<heading>Welcome To Enterprise Programming</heading> 
+  <book>  
+        <title> cc</title>  
+        <author> Surya</author>  
+        <publisher>klu</publisher>  
+        <edition> 3</edition>  
+        <price> 300</price>  
+    </book> 
+  
+<book>  
+        <title> cns </title>  
+        <author> Teja</author>  
+        <publisher> KLU</publisher>  
+        <edition> 1</edition>  
+        <price>  Free</price>  
+    </book> 
+  
+  
+<book>  
+        <title> PFSD </title>  
+        <author>Koka</author>  
+        <publisher> KLU</publisher>  
+        <edition> 1</edition>  
+        <price> Free</price>  
+    </book> 
+  
+<book>  
+        <title> EP </title>  
+        <author> Sri</author>  
+        <publisher> KLU</publisher>  
+        <edition> 1</edition>  
+        <price>  Free</price>  
+    </book> 
+  
+<book>  
+        <title> Data Science </title>  
+        <author> Bhnau </author>  
+        <publisher> KLU</publisher>  
+        <edition> 1</edition>  
+        <price>  Free</price>  
+    </book> 
+  
+  
+</books> 

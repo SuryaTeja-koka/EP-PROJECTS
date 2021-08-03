@@ -1,0 +1,31 @@
+books { 
+    color:black; 
+    background-color :antique; 
+    width: 100%; 
+} 
+heading { 
+    color:crimson; 
+    font-size : 40px; 
+    text-align:center;
+    color:blue;
+    background-color: yellow;
+   
+} 
+heading, title, author, publisher, edition, price { 
+    display : block; 
+} 
+book{
+    background-color: orange;
+    display: block;
+    width: 300px;
+    border-top: 15px solid crimson;
+    border-left: 15px solid yellowgreen;
+    border-right: 15px solid yellowgreen;
+    border-bottom: 15px solid crimson;
+    padding: 50px;
+    margin: 20px;
+}
+title { 
+    font-size : 25px; 
+    font-weight : bold; 
+} 

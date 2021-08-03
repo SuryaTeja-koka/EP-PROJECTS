@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab31.xsl"?>
+<MYDocument title="My Lab3">
+
+<student>   			
+   <regno>190031554</regno>
+   <name>SuryaTeja Koka</name>    
+   <avg>9.2</avg>
+   <dob>19-03-2002</dob>  
+   <time></time>       
+   <mobile no="9949512482"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>190031554</regno>
+   <name>SuryaTeja Koka</name>    
+   <avg>9.2</avg>
+   <dob>19-03-2002</dob>  
+   <time></time>       
+   <mobile no="9949512482"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>190031554</regno>
+   <name>SuryaTeja Koka</name>    
+   <avg>9.2</avg>
+   <dob>19-03-2002</dob>  
+   <time></time>       
+   <mobile no="9949512482"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>190031554</regno>
+   <name>SuryaTeja Koka</name>    
+   <avg>9.2</avg>
+   <dob>19-03-2002</dob>  
+   <time></time>       
+   <mobile no="9949512482"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ <student>   			
+   <regno>190031554</regno>
+   <name>SuryaTeja Koka</name>    
+   <avg>9.2</avg>
+   <dob>19-03-2002</dob>  
+   <time></time>       
+   <mobile no="9949512482"/>  		   
+   <distinction>YES</distinction>
+ </student>
+
+</MYDocument>
